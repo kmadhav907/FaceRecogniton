@@ -1,6 +1,7 @@
 # FaceRecogniton
-Import the Libraries:
-1.OpenCVs
+Import the Libraries:          
+1.OpenCV
+
 2.Imutils
 Go to python.org for more information about the installation of these files.
 
