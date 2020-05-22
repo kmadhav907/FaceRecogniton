@@ -2,7 +2,7 @@
 Import the Libraries:          
 1.OpenCV
 
-2.Imutils
+2.Imutils                      
 Go to python.org for more information about the installation of these files.
 
 To run the python program in CMD follow these steps
